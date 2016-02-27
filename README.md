@@ -30,3 +30,7 @@ https://www.gitignore.io/
 ## COMANDOS
 
 http://stackoverflow.com/questions/8225125/remove-last-commit-from-remote-git-repository
+
+# CONTROLE DE VERSÃO
+
+http://semver.org/
