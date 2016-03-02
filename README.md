@@ -17,6 +17,12 @@ https://www.sublimetext.com/
 
 https://www.vagrantup.com/
 
+# Docker
+
+## Windows
+
+https://docs.docker.com/windows/step_one/
+
 # FERRAMENTAS
 
 https://kanbanflow.com/
