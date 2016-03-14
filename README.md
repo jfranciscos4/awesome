@@ -13,6 +13,8 @@ https://eclipse.org/
 
 https://www.sublimetext.com/
 
+http://realityloop.com/blog/2014/03/05/drupal-development-using-sublime-text-3-5-steps
+
 # VAGRANT
 
 https://www.vagrantup.com/
