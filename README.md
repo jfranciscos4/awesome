@@ -2,9 +2,6 @@
 
 # PHP 
 
-## Ferramentas
-https://regex101.com/
-
 ## FRAMEWORK
 https://github.com/yvoyer/phpspec-cheat-sheet
 
@@ -38,6 +35,10 @@ https://docs.docker.com/windows/step_one/
 https://kanbanflow.com/
 
 https://wakatime.com/
+
+https://regex101.com/
+
+https://erdplus.com/#/
 
 # GIT
 
