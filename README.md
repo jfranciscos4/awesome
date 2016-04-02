@@ -14,9 +14,9 @@ https://secure.php.net/
 
 https://eclipse.org/
 
-https://www.sublimetext.com/
+## Sublime Text - https://www.sublimetext.com/
 
-http://realityloop.com/blog/2014/03/05/drupal-development-using-sublime-text-3-5-steps
+* http://realityloop.com/blog/2014/03/05/drupal-development-using-sublime-text-3-5-steps
 
 # VAGRANT
 
