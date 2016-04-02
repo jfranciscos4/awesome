@@ -2,8 +2,12 @@
 
 # PHP 
 
+## Ferramentas
+https://regex101.com/
+
 ## FRAMEWORK
 https://github.com/yvoyer/phpspec-cheat-sheet
+
 ### DRUPAL
   http://www.ufrgs.br/documentacao/servicos-web/hospedagem-de-sites/hospedagem-php-mysql/gerenciando-o-drupal/atualizando-o-drupal
 
