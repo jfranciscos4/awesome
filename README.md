@@ -1,9 +1,19 @@
 # awesome
 
+
+# Cucumber
+
+  http://www.bugbang.com.br/entendendo-bdd-com-cucumber-parte-i/
+  
+  http://www.hascode.com/2014/12/bdd-testing-with-cucumber-java-and-ju
+
 # PHP 
 
 ## FRAMEWORK
-https://github.com/yvoyer/phpspec-cheat-sheet
+
+### PHPSpec 
+
+  https://github.com/yvoyer/phpspec-cheat-sheet
 
 ### DRUPAL
   http://www.ufrgs.br/documentacao/servicos-web/hospedagem-de-sites/hospedagem-php-mysql/gerenciando-o-drupal/atualizando-o-drupal
@@ -46,7 +56,7 @@ https://www.gitignore.io/
 
 ## COMANDOS
 
-http://stackoverflow.com/questions/8225125/remove-last-commit-from-remote-git-repository
+* http://stackoverflow.com/questions/8225125/remove-last-commit-from-remote-git-repository
 
 # CONTROLE DE VERSÃO
 
