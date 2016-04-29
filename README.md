@@ -59,6 +59,7 @@ https://www.gitignore.io/
 ## COMANDOS
 
 * http://stackoverflow.com/questions/8225125/remove-last-commit-from-remote-git-repository
+* http://www.xerxesb.com/2010/12/20/git-describe-and-the-tale-of-the-wrong-commits/
 
 # CONTROLE DE VERSÃO
 
