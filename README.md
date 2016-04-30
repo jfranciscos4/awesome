@@ -19,6 +19,8 @@
 
 ### DRUPAL
   http://www.ufrgs.br/documentacao/servicos-web/hospedagem-de-sites/hospedagem-php-mysql/gerenciando-o-drupal/atualizando-o-drupal
+  
+  https://www.drupal.org/files/fapi_workflow_7.x_v1.1.png
 
 https://secure.php.net/
 
