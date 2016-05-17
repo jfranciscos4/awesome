@@ -26,7 +26,10 @@ https://secure.php.net/
 
 # IDE
 
-https://eclipse.org/
+## Eclipse - https://eclipse.org/
+
+http://stackoverflow.com/questions/1176032/no-completions-available-on-var
+
 
 ## Sublime Text - https://www.sublimetext.com/
 
