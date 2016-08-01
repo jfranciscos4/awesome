@@ -16,7 +16,8 @@
 ### PHPSpec 
 
   https://github.com/yvoyer/phpspec-cheat-sheet
-
+  
+http://blog.florianwolters.de/educational/2016/01/08/Install-global-packages-with-Composer-under-Windows/
 ### DRUPAL
   http://www.ufrgs.br/documentacao/servicos-web/hospedagem-de-sites/hospedagem-php-mysql/gerenciando-o-drupal/atualizando-o-drupal
   
