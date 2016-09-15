@@ -25,6 +25,10 @@ http://blog.florianwolters.de/educational/2016/01/08/Install-global-packages-wit
 
 https://secure.php.net/
 
+http://www.symfony2cheatsheet.com/#doctrine
+
+https://www.phpdoc.org/docs/latest/guides/inheritance.html
+
 # IDE
 
 ## Eclipse - https://eclipse.org/
