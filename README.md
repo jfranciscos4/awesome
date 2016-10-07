@@ -79,3 +79,8 @@ http://semver.org/
 # PMP
 
 http://www.trainning.com.br/simuladopmp.html
+
+
+# Artigos Cientificos
+
+http://porvir.org/usp-lanca-curso-online-sobre-producao-de-artigo-cientifico/
