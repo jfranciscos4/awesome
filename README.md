@@ -94,6 +94,8 @@ https://erdplus.com/#/
 
 http://devdocs.io/
 
+https://jsonlint.com/
+
 # GIT
 
 https://www.gitignore.io/
