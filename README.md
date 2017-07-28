@@ -1,24 +1,18 @@
-# awesome
+# AWESOME
 
+## Linguagens de Programação
 
-# Cucumber
+### PHP 
 
-  http://www.bugbang.com.br/entendendo-bdd-com-cucumber-parte-i/
-  
-  http://www.hascode.com/2014/12/bdd-testing-with-cucumber-java-and-ju
+#### FRAMEWORK
 
-# Gherkin - https://github.com/cucumber/cucumber/wiki/Gherkin
-
-# PHP 
-
-## FRAMEWORK
-
-### PHPSpec 
+##### PHPSpec 
 
   https://github.com/yvoyer/phpspec-cheat-sheet
+  http://blog.florianwolters.de/educational/2016/01/08/Install-global-packages-with-Composer-under-Windows/
   
-http://blog.florianwolters.de/educational/2016/01/08/Install-global-packages-with-Composer-under-Windows/
-### DRUPAL
+##### DRUPAL
+
   http://www.ufrgs.br/documentacao/servicos-web/hospedagem-de-sites/hospedagem-php-mysql/gerenciando-o-drupal/atualizando-o-drupal
   
   https://www.drupal.org/files/fapi_workflow_7.x_v1.1.png
@@ -29,18 +23,44 @@ http://www.symfony2cheatsheet.com/#doctrine
 
 https://www.phpdoc.org/docs/latest/guides/inheritance.html
 
-# IDE
+### Java
 
-## Eclipse - https://eclipse.org/
+### Javascript
+
+#### NodeJs
+
+https://nodejs.org/en/
+
+http://www.embeddedjs.com/
+
+https://nodemon.io/
+
+### Cucumber
+
+  http://www.bugbang.com.br/entendendo-bdd-com-cucumber-parte-i/
+  
+  http://www.hascode.com/2014/12/bdd-testing-with-cucumber-java-and-ju
+
+### Gherkin - https://github.com/cucumber/cucumber/wiki/Gherkin
+
+### Swagger
+
+
+
+## IDE
+
+### Eclipse - https://eclipse.org/
 
 http://stackoverflow.com/questions/1176032/no-completions-available-on-var
 
 
-## Sublime Text - https://www.sublimetext.com/
+### Sublime Text - https://www.sublimetext.com/
 
 * http://realityloop.com/blog/2014/03/05/drupal-development-using-sublime-text-3-5-steps
 
-# VAGRANT
+
+
+## VAGRANT
 
 https://www.vagrantup.com/
 
