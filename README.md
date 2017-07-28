@@ -25,11 +25,21 @@ https://www.phpdoc.org/docs/latest/guides/inheritance.html
 
 ### Java
 
+#### JSF
+
+
+
+#### JPA
+
+
+
 ### Javascript
 
 #### NodeJs
 
 https://nodejs.org/en/
+
+http://expressjs.com/pt-br/
 
 http://www.embeddedjs.com/
 
@@ -81,6 +91,8 @@ https://wakatime.com/
 https://regex101.com/
 
 https://erdplus.com/#/
+
+http://devdocs.io/
 
 # GIT
 
