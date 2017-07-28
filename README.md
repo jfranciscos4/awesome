@@ -37,6 +37,7 @@
 * http://expressjs.com/pt-br/
 * http://www.embeddedjs.com/
 * https://nodemon.io/
+* https://github.com/expressjs/body-parser
 
 ### Cucumber
 
