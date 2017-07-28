@@ -63,6 +63,7 @@ http://stackoverflow.com/questions/1176032/no-completions-available-on-var
 ### Atom
 
 * https://www.sitepoint.com/10-essential-atom-add-ons/
+* https://scotch.io/bar-talk/best-of-atom-features-plugins-acting-like-sublime-text
 
 
 
