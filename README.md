@@ -66,8 +66,6 @@ http://stackoverflow.com/questions/1176032/no-completions-available-on-var
 * https://www.sitepoint.com/10-essential-atom-add-ons/
 * https://scotch.io/bar-talk/best-of-atom-features-plugins-acting-like-sublime-text
 
-
-
 ## VAGRANT
 
 * https://www.vagrantup.com/
@@ -110,3 +108,6 @@ http://stackoverflow.com/questions/1176032/no-completions-available-on-var
 # Artigos Cientificos
 
 * http://porvir.org/usp-lanca-curso-online-sobre-producao-de-artigo-cientifico/
+
+
+https://www.caelum.com.br/apostila-vraptor-hibernate/rest/#11-2-caracteristicas-e-vantagens
