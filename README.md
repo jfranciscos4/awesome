@@ -112,3 +112,5 @@ http://stackoverflow.com/questions/1176032/no-completions-available-on-var
 
 
 https://www.caelum.com.br/apostila-vraptor-hibernate/rest/#11-2-caracteristicas-e-vantagens
+
+https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-august-dbf3cb657274
