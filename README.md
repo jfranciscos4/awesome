@@ -116,3 +116,6 @@ https://www.caelum.com.br/apostila-vraptor-hibernate/rest/#11-2-caracteristicas-
 https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-august-dbf3cb657274
 
 no endereço https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html temos uma lista de todos os métodos suportados pelo HTTP.
+
+http://blog.caelum.com.br/arredondamento-no-java-do-double-ao-bigdecimal/
+
