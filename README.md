@@ -91,6 +91,10 @@ http://stackoverflow.com/questions/1176032/no-completions-available-on-var
 
 # Maven
 
+## JBoss Forege
+
+JBoss Forge is a software development tool that extends your Java IDE, providing wizards and extensions (add-ons) for different technologies and solutions.
+
 http://forge.jboss.org/
 
 ## COMANDOS
