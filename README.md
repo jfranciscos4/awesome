@@ -1,5 +1,9 @@
 # AWESOME
 
+## Agile
+
+  * https://www.mountaingoatsoftware.com/agile/transitioning-to-agile
+
 ## Linguagens de Programação
 
 ### PHP 
