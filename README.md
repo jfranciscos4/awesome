@@ -7,6 +7,10 @@
 ## Agile
 
   * https://www.mountaingoatsoftware.com/agile/transitioning-to-agile
+  
+### Kanban
+
+  * https://www.infoq.com/br/articles/kanban-step-guide
 
 ## Linguagens de Programação
 
