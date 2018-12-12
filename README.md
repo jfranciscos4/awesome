@@ -1,5 +1,9 @@
 # AWESOME
 
+## REST
+
+ * https://www.infoq.com/br/articles/nivelando-sua-rest-api
+
 ## Agile
 
   * https://www.mountaingoatsoftware.com/agile/transitioning-to-agile
