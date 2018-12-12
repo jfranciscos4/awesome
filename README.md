@@ -3,6 +3,7 @@
 ## REST
 
  * https://www.infoq.com/br/articles/nivelando-sua-rest-api
+ * https://www.infoq.com/br/articles/10-ferramentas-teste-api
 
 ## Agile
 
