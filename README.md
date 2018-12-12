@@ -1,5 +1,9 @@
 # AWESOME
 
+## Architecture
+
+ * https://www.infoq.com/br/articles/architecture-five-things
+
 ## REST
 
  * https://www.infoq.com/br/articles/nivelando-sua-rest-api
