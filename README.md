@@ -39,6 +39,18 @@
 
 ### Java
 
+#### Maven
+
+#### Tomcat
+
+https://stackoverflow.com/questions/17006461/difference-between-clean-and-clean-working-directory-in-eclipse-wtp-with-tomcat
+
+#### JBoss Forege
+
+JBoss Forge is a software development tool that extends your Java IDE, providing wizards and extensions (add-ons) for different technologies and solutions.
+
+http://forge.jboss.org/
+
 #### JSF
 
 #### JPA
@@ -115,14 +127,6 @@ http://stackoverflow.com/questions/1176032/no-completions-available-on-var
 # GIT
 
 * https://www.gitignore.io/
-
-# Maven
-
-## JBoss Forege
-
-JBoss Forge is a software development tool that extends your Java IDE, providing wizards and extensions (add-ons) for different technologies and solutions.
-
-http://forge.jboss.org/
 
 ## COMANDOS
 
